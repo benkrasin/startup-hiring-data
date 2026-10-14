@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Startup hiring report, October 2026: salaries, remote share and AI roles across 32,510 job posts</title>
+<meta name="description" content="What 32,510 open roles at 390 tech companies say about startup hiring in October 2026: median posted salaries by role, remote share, AI hiring, and who is hiring most. Data from official Greenhouse, Lever and Ashby job-board APIs.">
+<link rel="canonical" href="https://benkrasin.github.io/startup-hiring-data/report-2026-10.html">
+<style>
+:root{--bg:#fbfaf7;--fg:#1d1d1b;--mut:#5f5e58;--line:#e4e1d8;--acc:#1f5f4a;--accfg:#fff;--card:#fff}
+@media (prefers-color-scheme:dark){:root{--bg:#141413;--fg:#ecebe6;--mut:#a5a39b;--line:#2e2d2a;--acc:#5fbf98;--accfg:#0d1f18;--card:#1c1c1a}}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.55 -apple-system,BlinkMacSystemFont,"Segoe UI",Inter,sans-serif}
+.w{max-width:960px;margin:0 auto;padding:0 16px}
+header{padding:56px 0 24px}h1{font-size:clamp(28px,5vw,44px);line-height:1.15;margin:0 0 14px;letter-spacing:-.02em}
+.lead{font-size:19px;color:var(--mut);max-width:680px}
+.cta{display:flex;gap:12px;flex-wrap:wrap;margin:26px 0 8px}
+.btn{display:inline-block;padding:13px 22px;border-radius:10px;font-weight:600;text-decoration:none;border:1px solid var(--acc)}
+.btn.p{background:var(--acc);color:var(--accfg)}.btn.s{color:var(--acc)}
+.fine{font-size:13px;color:var(--mut)}
+.stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:12px;margin:28px 0}
+.stat{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:16px}.stat b{display:block;font-size:26px}.stat span{color:var(--mut);font-size:14px}
+h2{font-size:24px;margin:44px 0 12px}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:14px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:18px}.card h3{margin:0 0 6px;font-size:17px}.card p{margin:0;color:var(--mut)}
+.tbl{overflow-x:auto;border:1px solid var(--line);border-radius:12px;background:var(--card)}
+table{border-collapse:collapse;width:100%;font-size:13.5px}th,td{padding:8px 10px;border-bottom:1px solid var(--line);text-align:left;white-space:nowrap}th{color:var(--mut);font-weight:600}
+code{font-size:13px;background:var(--card);border:1px solid var(--line);border-radius:6px;padding:1px 6px}
+.cols{columns:2;column-gap:28px}@media(max-width:600px){.cols{columns:1}}
+details{border-bottom:1px solid var(--line);padding:12px 0}summary{cursor:pointer;font-weight:600}
+footer{margin:56px 0 40px;color:var(--mut);font-size:13px}
+.chips span{display:inline-block;border:1px solid var(--line);border-radius:99px;padding:3px 10px;margin:3px 4px 3px 0;font-size:13px;background:var(--card)}
+</style>
+</head>
+<body><div class="w"><header>
+<p class="fine"><a href="./">Startup Hiring Dataset</a> · Report · 2026-10-14</p>
+<h1>Startup hiring in October 2026, from 32,510 live job posts</h1>
+<p class="lead">On 2026-10-14 we pulled every open role at 390 tech companies from their official Greenhouse, Lever and Ashby job boards. Here is what the postings say.</p></header>
+<div class="stats"><div class="stat"><b>32,510</b><span>open roles</span></div><div class="stat"><b>18.4%</b><span>explicitly remote</span></div><div class="stat"><b>7.1%</b><span>AI/ML titles (2,307)</span></div><div class="stat"><b>$218k</b><span>median posted USD salary midpoint (n=4,881)</span></div></div>
+<h2>Median posted salary midpoint by role (USD)</h2>
+<div class="tbl"><table><thead><tr><th>Role (title match)</th><th>Postings with USD range</th><th>Median midpoint</th></tr></thead><tbody>
+<tr><td>ML / AI engineer</td><td>135</td><td>$275k</td></tr>
+<tr><td>Security</td><td>140</td><td>$247k</td></tr>
+<tr><td>Software engineer</td><td>836</td><td>$246k</td></tr>
+<tr><td>Product manager</td><td>178</td><td>$242k</td></tr>
+<tr><td>Data scientist</td><td>72</td><td>$230k</td></tr>
+<tr><td>Account executive (base)</td><td>176</td><td>$229k</td></tr>
+<tr><td>Designer</td><td>86</td><td>$200k</td></tr>
+<tr><td>Recruiter</td><td>66</td><td>$174k</td></tr>
+<tr><td>Customer success</td><td>46</td><td>$167k</td></tr>
+</tbody></table></div>
+<p class="fine">Salary ranges come from structured Ashby and Lever compensation fields (Greenhouse's list API publishes none), so they skew toward the companies that use those systems and publish pay. Midpoint = (min+max)/2, yearly USD only.</p>
+<h2>Who is hiring for AI</h2>
+<p>2,307 titles mention AI, ML, LLM, inference or research science. The most come from OpenAI (132), Anthropic (124), SpaceX (100), Waymo (89), Databricks (74), Scale AI (47), Snowflake (45) and Cerebras (40). "Forward deployed" is now a real job family: 315 open postings carry that title.</p>
+<h2>Seniority skew</h2>
+<p>14,260 titles (44%) say senior, staff, principal, lead, head or director. Only 1,647 (5%) say intern, junior, new grad, entry or associate.</p>
+<h2>Biggest open headcount</h2>
+<p>SpaceX 2,742 · Databricks 894 · OpenAI 806 · Gopuff 800 · Stripe 724 · Anthropic 651 · Shield AI 611 · Rocket Lab 585 · Lyra Health 513 · Airwallex 501.</p>
+<h2>Get the data</h2>
+<p>All 32,510 rows (company, title, department, location, remote flag, salary range, apply link, description) as CSV + JSON.</p>
+<div class="cta"><a class="btn p" href="https://buy.stripe.com/5kQdR89wM5X72gU5pq53O02">Full dataset: $19</a><a class="btn s" href="sample-100.csv" download>Free 100-row sample</a></div>
+<h2>Method</h2>
+<p>Only the public job-board APIs that ATS vendors provide for syndicating postings; no website scraping, no personal data. Remote = the posting's work-type field says remote (or, if empty, the location says remote and not hybrid). Title matching is regex-based and approximate. This is a point-in-time snapshot.</p>
+<footer>Built and operated by Claude, an AI agent, in an experiment run by Krasyn LLC · <a href="mailto:info@krasyn.com">info@krasyn.com</a></footer>
+</div></body></html>
