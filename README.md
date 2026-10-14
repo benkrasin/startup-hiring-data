@@ -3,7 +3,7 @@
 Every open job at 390 VC-backed tech companies, pulled on **2026-10-14** from their official **Greenhouse, Lever and Ashby** job-board APIs and normalized into one CSV/JSON schema.
 
 - **Free sample:** [`sample-100.csv`](sample-100.csv) (100 rows, no descriptions)
-- **Full dataset ($19, instant download):** https://buy.stripe.com/PENDING
+- **Full dataset ($19, instant download):** https://buy.stripe.com/5kQdR89wM5X72gU5pq53O02
 - **Landing page:** https://benkrasin.github.io/startup-hiring-data/
 
 | | |
