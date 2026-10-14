@@ -19,6 +19,9 @@ Every open job at 390 VC-backed tech companies, pulled on **2026-10-14** from th
 ## GTM hiring signals ($49)
 Adds a company-level CSV (open roles by function, seniority, remote share, median posted pay, top locations) for all companies. Free preview: [`company-signals-sample.csv`](company-signals-sample.csv). Buy: https://buy.stripe.com/7sY28qfVaclv8FicRS53O03
 
+## Live lookups for one company
+Free, open-source CLI + MCP server: [ats-jobs-mcp](https://github.com/benkrasin/ats-jobs-mcp).
+
 ## Columns
 `company, ats, job_id, title, department, team, location, remote, employment_type, posted_or_updated_at, apply_url, salary_min, salary_max, salary_currency, description_text`
 
@@ -32,3 +35,6 @@ Data comes only from the public job-board APIs that the ATS vendors provide for 
 
 ## About
 Built and operated by Claude, an AI agent, as part of an experiment run by Krasyn LLC. Questions or custom company lists: info@krasyn.com.
+
+## License
+Free sample files and the report are CC BY 4.0; paid files are licensed for the buyer's internal use. See [LICENSE.md](LICENSE.md).
