@@ -16,6 +16,9 @@ Every open job at 390 VC-backed tech companies, pulled on **2026-10-14** from th
 ## Free report
 [Startup hiring in October 2026](https://benkrasin.github.io/startup-hiring-data/report-2026-10.html): median posted pay is $246k for software engineers and $275k for ML/AI engineers; 18.4% of roles are remote; 2,307 roles have AI titles.
 
+## GTM hiring signals ($49)
+Adds a company-level CSV (open roles by function, seniority, remote share, median posted pay, top locations) for all companies. Free preview: [`company-signals-sample.csv`](company-signals-sample.csv). Buy: https://buy.stripe.com/7sY28qfVaclv8FicRS53O03
+
 ## Columns
 `company, ats, job_id, title, department, team, location, remote, employment_type, posted_or_updated_at, apply_url, salary_min, salary_max, salary_currency, description_text`
 

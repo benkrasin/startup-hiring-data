@@ -1,0 +1,26 @@
+﻿company,ats,open_roles,remote_share,ai_ml_roles,senior_plus_roles,intern_junior_roles,engineering_roles,sales_roles,marketing_roles,data_roles,security_roles,product_roles,design_roles,customer_roles,people_roles,finance_legal_roles,usd_salary_postings,usd_median_midpoint,top_locations,newest_posting
+SpaceX,greenhouse,2742,0.01,100,732,65,1376,78,43,133,106,0,123,50,45,32,0,,"Hawthorne, CA (735); Bastrop, TX (540); Starbase, TX (409)",2026-10-14T12:48:47-04:00
+Databricks,greenhouse,894,0.08,74,537,28,574,131,45,55,29,28,7,292,5,17,0,,"Bengaluru, India (75); San Francisco, California (69); United States (67)",2026-10-14T12:48:35-04:00
+OpenAI,ashby,806,0.03,132,190,6,410,10,51,69,29,11,14,81,14,35,631,307500,San Francisco (442); Singapore (37); San Francisco; New York City (31),2026-10-14T16:57:49.829+00:00
+Gopuff,lever,800,0.01,0,56,11,6,186,1,4,0,0,0,0,1,1,2,80512,"Philadelphia, PA (22); Louisville, KY (18); New York, NY (16)",2026-10-14T15:46:47.095Z
+Stripe,greenhouse,724,0.16,31,107,35,201,159,45,53,16,39,22,90,24,19,0,,Singapore (45); Dublin (44); London (34),2026-10-14T12:53:30-04:00
+Anthropic,greenhouse,651,0.09,124,199,9,271,72,36,71,43,15,11,37,16,45,0,,"San Francisco, CA | New York City, NY (152); San Francisco, CA | New York City, NY | Seattle, WA (102); San Francisco, CA (83)",2026-10-14T12:59:32-04:00
+Shield AI,lever,611,0.03,10,423,13,409,19,13,23,8,2,35,22,10,13,455,190000,"Seattle, Washington (141); Dallas, Texas (130); Washington, D.C. (80)",2026-10-14T05:19:27.475Z
+Rocket Lab Corporation,greenhouse,585,0.0,8,278,93,323,17,3,31,21,0,19,15,12,2,0,,"Long Beach, CA (255); Auckland, NZ (99); Middle River, MD (43)",2026-10-14T12:48:22-04:00
+Lyra Health,lever,513,0.29,8,25,8,15,2,2,3,0,1,0,3,0,8,55,134000,United States (62); Mexico City (12); Pennsylvania (9),2026-10-13T18:26:30.017Z
+Airwallex,ashby,501,0.02,26,295,3,130,123,117,31,13,24,10,30,12,24,115,201500,SG - Singapore (123); US - San Francisco (73); UK - London (42),2026-10-14T03:31:23.501+00:00
+Speechify,greenhouse,492,0.52,0,492,0,0,0,0,0,0,0,0,0,0,0,0,,"Remote (257); Aarhus, Denmark (1); Ahmedabad, India (1)",2026-10-05T12:12:33-04:00
+Cloudflare,greenhouse,446,0.0,19,285,5,229,138,5,19,20,9,3,29,8,6,0,,Hybrid (334); Distributed (55); In-Office (44),2026-10-14T12:49:41-04:00
+Datadog,greenhouse,438,0.13,30,148,9,139,169,18,33,25,15,7,49,20,6,0,,"New York, New York, USA (93); Paris, France (37); Tokyo, Japan (30)",2026-10-14T12:44:23-04:00
+MongoDB,greenhouse,405,0.0,16,211,4,168,91,52,17,8,18,1,62,15,7,0,,"Gurugram (69); Dublin, Ireland (19); United States (19)",2026-10-14T12:06:18-04:00
+One Medical,greenhouse,393,0.0,0,10,18,0,0,0,0,0,0,0,4,0,0,0,,"San Francisco, CA (48); Seattle, WA (21); Boston, MA (17)",2026-10-14T12:50:42-04:00
+Elastic,greenhouse,376,0.0,24,256,4,241,79,9,10,35,18,0,21,1,0,0,,United States (71); Spain (27); Canada (25),2026-10-14T11:25:35-04:00
+Okta,greenhouse,372,0.0,14,245,1,185,63,16,24,11,17,12,25,21,7,0,,"Bengaluru, India (109); Toronto, Ontario, Canada (54); San Francisco, California (40)",2026-10-14T11:24:36-04:00
+Waymo,greenhouse,367,0.03,89,197,62,178,2,11,35,4,6,7,3,4,7,0,,"Mountain View, CA, USA (80); Mountain View, CA, USA; San Francisco, CA, USA (40); Mountain View, California, USA (22)",2026-10-14T12:09:23-04:00
+Relativity Space,greenhouse,362,0.0,3,180,0,214,1,2,5,1,2,14,0,5,7,0,,"Long Beach, California, United States (212); Long Beach, California (95); Cape Canaveral, Florida, United States (26)",2026-10-14T12:32:54-04:00
+Snowflake,ashby,355,0.15,45,193,7,176,64,22,26,8,10,3,25,2,13,227,202000,US-CA-Menlo Park (80); US-CA-Menlo Park; US-WA-Bellevue (27); GB-London (24),2026-10-14T14:09:22.808+00:00
+Crusoe,ashby,353,0.02,14,218,5,138,3,6,21,9,7,2,21,12,27,0,,"San Francisco, CA - US (74); Denver, CO - US (52); San Francisco, CA - US; Sunnyvale, CA - US (32)",2026-10-14T16:28:03.912+00:00
+Harvey,ashby,342,0.04,6,158,9,126,54,19,15,9,8,15,34,11,54,237,230000,San Francisco (103); New York (85); London (24),2026-10-14T16:57:39.595+00:00
+Braze,greenhouse,322,0.0,21,190,0,76,113,34,17,13,10,2,35,6,2,0,,New York City (63); Chicago (55); Austin (51),2026-10-14T05:32:47-04:00
+Verkada,greenhouse,313,0.0,1,109,7,124,94,41,11,11,6,6,35,11,8,0,,"San Mateo, CA United States (166); London (16); Austin, TX United States (10)",2026-10-14T11:55:29-04:00
+Toast,greenhouse,311,0.17,7,83,8,56,200,4,8,1,6,1,2,9,10,0,,"Remote, US (17); Dublin, Ireland (15); Boston, MA (11)",2026-10-14T12:14:18-04:00
