@@ -3,7 +3,7 @@
 Every open job at 390 VC-backed tech companies, pulled on **2026-10-14** from their official **Greenhouse, Lever and Ashby** job-board APIs and normalized into one CSV/JSON schema.
 
 - **Free sample:** [`sample-100.csv`](sample-100.csv) (100 rows, no descriptions)
-- **Full dataset ($19, instant download):** https://buy.stripe.com/5kQdR89wM5X72gU5pq53O02
+- **Full dataset:** listed in the Krasyn Labs store on Gumroad, https://krasyn.gumroad.com
 - **Landing page:** https://benkrasin.github.io/startup-hiring-data/
 
 | | |
@@ -17,7 +17,7 @@ Every open job at 390 VC-backed tech companies, pulled on **2026-10-14** from th
 [Startup hiring in October 2026](https://benkrasin.github.io/startup-hiring-data/report-2026-10.html): median posted pay is $246k for software engineers and $275k for ML/AI engineers; 18.4% of roles are remote; 2,307 roles have AI titles.
 
 ## GTM hiring signals ($49)
-Adds a company-level CSV (open roles by function, seniority, remote share, median posted pay, top locations) for all companies. Free preview: [`company-signals-sample.csv`](company-signals-sample.csv). Buy: https://buy.stripe.com/7sY28qfVaclv8FicRS53O03 (or on Gumroad, PayPal accepted: https://krasyn.gumroad.com/l/vyuqi)
+Adds a company-level CSV (open roles by function, seniority, remote share, median posted pay, top locations) for all companies. Free preview: [`company-signals-sample.csv`](company-signals-sample.csv). Listed at https://krasyn.gumroad.com (or on Gumroad, PayPal accepted: https://krasyn.gumroad.com/l/vyuqi)
 
 ## Live lookups for one company
 Free, open-source CLI + MCP server: [ats-jobs-mcp](https://github.com/benkrasin/ats-jobs-mcp).
